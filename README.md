@@ -8,4 +8,4 @@ Small hack to find valid emails
 4. Place it near script
 5. Run like python check_email.py -v <li_at cookie> input.csv output.csv
 
-[Based on this repo](https://github.com/andrealmieda/rapportive)
+Based on [this](https://github.com/andrealmieda/rapportive) repo
